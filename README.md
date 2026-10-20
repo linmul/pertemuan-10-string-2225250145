@@ -17,10 +17,10 @@ python3 tugas/normalisasi_data_mahasiswa.py
 ## Test Case
 | Input Nama | Input Kode | Hasil Utama | Status |
 | :--- | :--- | :--- | :--- |
-| aan hendrayana | pmat a 2026 | Aan Hendrayana - PMAT-A-2026 - AH | Lulus[cite: 29] |
-| fATHIYYAH MUTHMAINNAH | kelas b | Fathiyyah Muthmainnah - KELAS-B - FM | Lulus[cite: 29] |
-| BUDI | pmtk 01 | Budi - PMTK-01 - B | Lulus[cite: 29] |
-| siti nur aisyah | kelas c | Siti Nur Aisyah - KELAS-C - SNA | Lulus[cite: 29] |
+| aan hendrayana | pmat a 2026 | Aan Hendrayana - PMAT-A-2026 - AH | Lulus |
+| fATHIYYAH MUTHMAINNAH | kelas b | Fathiyyah Muthmainnah - KELAS-B - FM | Lulus |
+| BUDI | pmtk 01 | Budi - PMTK-01 - B | Lulus |
+| siti nur aisyah | kelas c | Siti Nur Aisyah - KELAS-C - SNA | Lulus |
 
 ## Refleksi
 - **Pemahaman:** Karakter string bersifat *immutable*, sehingga pembersihan teks memerlukan pembuatan string baru menggunakan method seperti `strip()`, `title()`, `split()`, dan `join()`.
